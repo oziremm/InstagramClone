@@ -1,0 +1,15 @@
+.topright {
+
+    position: absolute;
+    top: 100px;
+    right: 720px;
+
+}
+
+.rightpanel {
+    position: fixed
+}
+
+.suggestion {
+    text-decoration: none;
+}
